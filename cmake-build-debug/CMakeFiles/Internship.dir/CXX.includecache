@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dinislam/CLionProjects/Internship/genetic_solver.cpp
+array
+-
+vector
+-
+genetic_solver.h
+C:/Users/Dinislam/CLionProjects/Internship/genetic_solver.h
+stdlib.h
+-
+exception
+-
+
+C:/Users/Dinislam/CLionProjects/Internship/genetic_solver.h
+vector
+-
+cstddef
+-
+concepts
+-
+
+C:/Users/Dinislam/CLionProjects/Internship/main.cpp
+iostream
+-
+vector
+-
+genetic_solver.cpp
+C:/Users/Dinislam/CLionProjects/Internship/genetic_solver.cpp
+
